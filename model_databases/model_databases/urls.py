@@ -23,4 +23,5 @@ urlpatterns = [
     path('models_guide2/', include("models_guide2.urls")),
     path('models_guide3/', include("models_guide3.urls")),
     path('models_guide4/', include("models_guide4.urls")),
+    path('models_guide5/', include('models_guide5.urls')),
 ]
