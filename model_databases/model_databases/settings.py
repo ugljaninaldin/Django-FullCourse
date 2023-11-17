@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'models_guide',
     'models_guide2',
     'models_guide3',
+    'models_guide4',
 ]
 
 MIDDLEWARE = [
