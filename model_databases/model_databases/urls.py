@@ -21,4 +21,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('models_guide/', include("models_guide.urls")),
     path('models_guide2/', include("models_guide2.urls")),
+    path('models_guide3/', include("models_guide3.urls")),
 ]
